@@ -1,1 +1,4 @@
 set https_proxy=http://UL11611:asako555@newproxy.hbl.local:8080
+
+testo
+
